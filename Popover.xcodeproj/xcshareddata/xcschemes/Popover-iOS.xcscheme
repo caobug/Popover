@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F746F85320444F020052B798"
-               BuildableName = "Popover_iOS.framework"
+               BuildableName = "Popover.framework"
                BlueprintName = "Popover-iOS"
                ReferencedContainer = "container:Popover.xcodeproj">
             </BuildableReference>
@@ -48,7 +48,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F746F85320444F020052B798"
-            BuildableName = "Popover_iOS.framework"
+            BuildableName = "Popover.framework"
             BlueprintName = "Popover-iOS"
             ReferencedContainer = "container:Popover.xcodeproj">
          </BuildableReference>
@@ -66,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F746F85320444F020052B798"
-            BuildableName = "Popover_iOS.framework"
+            BuildableName = "Popover.framework"
             BlueprintName = "Popover-iOS"
             ReferencedContainer = "container:Popover.xcodeproj">
          </BuildableReference>
